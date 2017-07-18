@@ -1,2 +1,3 @@
 # lotus
-First study repository
+My study and research is for LOVE David
+=======================================
